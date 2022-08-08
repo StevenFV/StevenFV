@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of these concepts (my interests up here⬆️) at Codeboxx [https://www.codeboxx.biz].
 - 💞️ I’m looking to collaborate on projects to increase my learning and seek new skills.
 - 👷 My GitHub profile under construction. The addition of my public repositories will be done soon 🙂.
-- - 📫 You can reach me to [veilletsteven@hotmail.com].
+- 📫 You can reach me to [veilletsteven@hotmail.com].
 
 <!---
 StevenFV/StevenFV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
