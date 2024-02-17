@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StevenFV
-- 👀 I’m a web developer specializing in PHP, Laravel, Vue.js, JavaScript, Inertia, and Vite.
+- 👀 I’m a web developer specializing in PHP, Laravel, Vue.js, JavaScript, Inertia, Vite.js and PostgreSQL.
 - 💼 I have been building modern web applications professionally since 2022.
 - 🌱 Passionate about applying SOLID principles and Clean Code practices.
 - 💞️ Actively seeking open-source collaborations to contribute and learn from others.
