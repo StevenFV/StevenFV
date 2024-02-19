@@ -4,7 +4,6 @@
 - 🌱 Passionate about applying SOLID principles and Clean Code practices.
 - 💞️ Actively seeking open-source collaborations to contribute and learn from others.
 - 📫 Reach me at [veilletsteven@hotmail.com].
-- 🔗 Link to my portfolio and website, will be done soon🙂.
 
 <!---
 StevenFV/StevenFV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
